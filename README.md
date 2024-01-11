@@ -29,8 +29,13 @@ Supporting multiple languages and cultures, such as localization and translation
 ## Acknowledgments
 
 Microsoft Bot Framework - https://docs.microsoft.com/en-us/azure/bot-service/bot-service-overview-introduction?view=azure-bot-service-4.0
+
 Dialogflow - https://dialogflow.cloud.google.com/
+
 Timely - https://memory.ai/timely
+
 Memtime - https://memtime.com/
+
 How AI is changing the way we work - https://www.forbes.com/sites/bernardmarr/2020/09/21/how-ai-is-changing-the-way-we-work/?sh=6c8f9a7c2f1d
+
 The ultimate guide to chatbots in 2021 - https://blog.hubspot.com/service/ultimate-guide-to-chatbots
