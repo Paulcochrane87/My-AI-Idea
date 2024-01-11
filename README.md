@@ -1,6 +1,8 @@
-# My-AI-Idea
-# Building AI Course Project
-# My idea in a nutshell: My project is called TimeBot, and it is an AI-powered chatbot that syncs timecard data from staff submitting and approving timecards in Salesforce and follows up with team members on Microsoft Teams.
+# TimeBot
+# Final project for the Building AI course
+
+## Summary
+My project is called TimeBot, and it is an AI-powered chatbot that syncs timecard data from staff submitting and approving timecards in Salesforce and follows up with team members on Microsoft Teams.
 
 # Background: 
 The problem my idea will solve is the inefficiency and inaccuracy of manual time tracking and reporting. This problem is very common and frequent, especially for remote workers and freelancers who have to log their hours and tasks on different platforms. My personal motivation is to simplify and automate this process, and save time and money for both employees and employers. This topic is important and interesting because time tracking is essential for project management, billing, and payroll, and it affects the productivity and satisfaction of workers.
