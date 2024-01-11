@@ -13,10 +13,10 @@ The problem my idea will solve is the inefficiency and inaccuracy of manual time
 The context in which my solution is used is in the workplace, either remotely or in-office, by the staff and the managers. The staff use the chatbot to submit and approve their timecards, ask questions, get feedback, and receive reminders and notifications. The managers use the chatbot to monitor and manage the timecard data, and generate reports and invoices. The people affected by it are the staff, the managers, the clients, and the time tracking app providers.
 
 ## Data sources and AI methods
-My project depends on the data sources from Salesforce and Microsoft Teams, as well as the time tracking apps Timely or Memtime. These data sources provide the information about the projects, tasks, hours, and status of the timecards. The AI techniques that I think will be helpful are computer vision, natural language processing, and web scraping. Computer vision is used to capture and categorize the work activity from the screen. Natural language processing is used to interact with the staff and the time tracking app using text or voice. Web scraping is used to find and compare the best deals and options for travel booking.
+My project depends on the data sources from Salesforce and Microsoft Teams, as well as the time tracking apps Timely or Memtime. These data sources provide the information about the projects, tasks, hours, and status of the timecards. The AI techniques that I think will be helpful are natural language processing, speech recognition, and sentiment analysis. Natural language processing is used to interact with the staff and the time tracking app using text or voice. Speech recognition is used to convert voice commands or queries into text. Sentiment analysis is used to detect the emotions and attitudes of the staff and provide appropriate responses.
 
 ## Challenges
-My project does not solve the problems of trust, privacy, and security. It is important to understand that any technological solution will have its limitations, and that human oversight and intervention are still necessary. For example, the chatbot might not be able to handle complex or ambiguous requests, or it might make errors or misinterpretations. The staff might not trust the chatbot or the time tracking app, or they might feel monitored or pressured. 
+My project does not solve the problems of trust, privacy, and security. It is important to understand that any technological solution will have its limitations, and that human oversight and intervention are still necessary. For example, the chatbot might not be able to handle complex or ambiguous requests, or it might make errors or misinterpretations. The staff might not trust the chatbot or the time tracking app, or they might feel monitored or pressured. The project should address these challenges by ensuring the reliability and accuracy of the chatbot, providing clear and transparent information and options to the staff, and respecting the privacy and security of the data.
 
 ## What next?
 My project could grow and become something even more by adding more features and functionalities, such as:
@@ -32,6 +32,5 @@ Microsoft Bot Framework - https://docs.microsoft.com/en-us/azure/bot-service/bot
 Dialogflow - https://dialogflow.cloud.google.com/
 Timely - https://memory.ai/timely
 Memtime - https://memtime.com/
-
 How AI is changing the way we work - https://www.forbes.com/sites/bernardmarr/2020/09/21/how-ai-is-changing-the-way-we-work/?sh=6c8f9a7c2f1d
 The ultimate guide to chatbots in 2021 - https://blog.hubspot.com/service/ultimate-guide-to-chatbots
