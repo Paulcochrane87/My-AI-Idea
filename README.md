@@ -1,6 +1,4 @@
-# Project Title
-
-TimeBot
+# TimeBot
 
 ## Summary
 My project is called TimeBot, and it is an AI-powered chatbot that syncs timecard data from staff submitting and approving timecards in Salesforce and follows up with team members on Microsoft Teams.
